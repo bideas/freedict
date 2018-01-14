@@ -1,0 +1,55 @@
+
+<!-- lemma -->
+<entry>
+  <form>
+    <orth>lemma ita</orth>
+  </form>
+  <!-- note grammaticali -->
+  <gramGrp>
+    <pos>parte del discorso</pos>
+    <gen>genere</gen>
+    <number>numero</number>
+  </gramGrp>
+  <!-- significati -->
+  <sense n="1">
+    <def>breve definizione dell'accezione ita</def>
+    <cit type="translation" xml:lang="srd">     
+      <quote>traduzione srd</quote>
+    </cit>
+    <!-- sotto-significati all'interno dell'accezione -->
+    <sense n="a">
+      <def>breve definizione dell'accezione ita</def>
+      <cit type="translation" xml:lang="srd">      
+        <quote>traduzione srd</quote>
+      </cit>
+	    <!-- esempi -->
+      <cit type="example">     
+        <quote>frase di esempio ita con rif.<oRef/></quote>     
+        <cit type="translation" xml:lang="srd">
+          <quote>traduzione srd</quote>
+        </cit>
+      </cit>
+      <!-- locuzioni e modi di dire -->
+      <usg type="style">tipo dell'uso</usg>
+      <cit type="example">     
+        <quote>locuzione ita, con rif.<oRef/></quote>
+        <cit type="translation" xml:lang="srd">
+          <quote>traduzione srd</quote>
+          <!-- opzionale -->
+          <gramGrp>
+            <gen>eventuale notazione grammaticale differente</gen>
+          </gramGrp>
+        </cit>
+      </cit>
+  </sense>  
+  <!-- accezioni particolari -->
+  <sense n="2">
+    <………>
+      <usg type="style">stile o tipo d'uso</usg>
+      <usg type="dom">dominio d'uso</usg>
+      <usg type="plev">prevalenza d'uso</usg>
+      <usg type="reg">registro d'uso</usg>
+      <usg type="geo">ambito geografico d'uso</usg>
+	    <!-- e molti altri -->
+  </sense>
+</entry>

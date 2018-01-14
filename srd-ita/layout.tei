@@ -1,0 +1,43 @@
+<!-- lema -->
+<entry>
+  <form>
+    <orth>lema srd</orth>
+    <syll>sìl|la|bas</syll>
+    <pron>pro'nuntsja IPA</pron>
+  </form>
+  <!-- nodas gramaticalis -->
+  <gramGrp>
+    <pos>parti de discorsu</pos>
+    <gen>gèneri</gen>
+    <number>nùmeru</number>
+  </gramGrp>
+  <usg type="geo">bariedadi de logu</usg>
+  <orth>bar</orth> o altra indicazione?
+  <orth>bar</orth>
+  <orth>bar</orth>
+  <!-- -->
+  <gramGrp>
+    <gen>sincasu noda gramaticali diferenti</gen>
+  </gramGrp>
+  <!-- -->
+  <!-- sentidus -->
+  <sense n="1">
+    <def>discinidura crutza de su sentidu srd</def>
+    <cit type="translation" xml:lang="it">
+      <quote>furriadura ita</quote>
+    </cit>
+    <!-- esemprus -->
+    <cit type="example">
+      <quote>fràsia de esempru srd cun arref. <oRef/></quote>
+      <cit type="translation" xml:lang="it">
+        <quote>furriadura ita</quote>
+      </cit>
+   </cit>
+   <!-- suta-sentidus aìnturu de su sentidu -->
+  <sense n="a">
+    <def> discinidura crutza de su sentidu srd</def>
+    <cit type="translation" xml:lang="it">
+      <quote>furriadura ita</quote>
+    </cit>
+  </sense>
+</entry>
